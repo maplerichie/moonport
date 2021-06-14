@@ -6,13 +6,18 @@
 4. (Optional) Install yarn global serve `yarn global add serve`
 5. Serve production `serve -s build`
 
+# Introduction
+
+A basic staking app for Moonbeam Alpha testnet. 
+Allow to stake and unstake only.
+
 # Roadblocks
 
 1. Solidity
-First solidity project, trying hard and learn a lot.
+- First solidity project, trying hard and learn a lot.
 
 2. Configuration
-Due to own limited knowledge, spend a lot time read through tutorial, docs
+- Due to own limited knowledge, spend a lot time read through tutorial, docs
 
 # Feedback
 
